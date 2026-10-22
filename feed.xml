@@ -5,7 +5,7 @@
     <link>https://ceciliaw888.github.io/wiki-briefing-feed/</link>
     <description>Personal audio notes about AI evaluation, learning and source quality. This feed is publicly accessible and is not submitted to the Apple Podcasts directory.</description>
     <language>en-au</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:59:15 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:15:49 +1100</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ceciliaw888.github.io/wiki-briefing-feed/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Ceci</itunes:author>
@@ -21,11 +21,11 @@
     </image>
     <item>
       <title>When AI checks its own homework</title>
-      <description>Episode 1. A catch-up on recent wiki additions about AI evaluations, source quality and learning by building. Includes a concrete definition correction. Male Alex narration.</description>
+      <description>Episode 1, revised as a conversational exchange between George and Michael. AI evaluations, self-checking and source quality. Both male voices generated locally with Kokoro. Includes a definition correction.</description>
       <guid isPermaLink="false">urn:uuid:fd6c6f21-52da-52c6-87b4-75ddf1f867cf</guid>
       <pubDate>Thu, 22 Oct 2026 12:36:09 +1100</pubDate>
-      <enclosure url="https://ceciliaw888.github.io/wiki-briefing-feed/episode20261022019432a673dfeb.mp3" length="10801664" type="audio/mpeg" />
-      <itunes:duration>900</itunes:duration>
+      <enclosure url="https://ceciliaw888.github.io/wiki-briefing-feed/episode20261022011e808a3baf5d.mp3" length="9121442" type="audio/mpeg" />
+      <itunes:duration>760</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
